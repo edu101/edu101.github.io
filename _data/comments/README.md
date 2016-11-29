@@ -1,0 +1,1 @@
+This is where staticman keeps comments.

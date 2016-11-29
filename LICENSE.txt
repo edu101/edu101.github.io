@@ -1,3 +1,11 @@
+
+1. This website uses Minimal Mistakes, a flexible two-column Jekyll theme. 
+License information for Minimal Mistakes:
+
+本网站使用了Minimal Mistakes(一种Jekyll主题)。下面是它的授权信息。
+
+--- --- --- ---
+
 The MIT License (MIT)
 
 Copyright (c) 2016 Michael Rose
@@ -19,3 +27,11 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+--- --- --- ---
+
+2. Posts, articles, and other contents copyright protected, Copyright (c) 2016 Xueliang Zhao.
+Please seek permission first before using them in part or full.
+
+本网站贴出的内容均受版权保护，版权所有人为Xueliang Zhao。如果有需要使用这些内容，请先获得授权。
+

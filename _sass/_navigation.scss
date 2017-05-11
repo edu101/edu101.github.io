@@ -123,9 +123,9 @@
   /* next/previous buttons */
   &--pager {
     display: block;
-    padding: 1em 2em;
+    padding: 1em .5em;
     float: left;
-    width: 50%;
+    width: 33%;
     font-family: $sans-serif;
     font-size: $type-size-5;
     font-weight: bold;
